@@ -1,4 +1,4 @@
-package com.st.lmsEureka;
+package com.st.il.eurekaapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,9 +6,9 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 @SpringBootApplication
 @EnableEurekaServer
-public class LmsEurekaApplication {
+public class EurekaAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LmsEurekaApplication.class, args);
+		SpringApplication.run(EurekaAppApplication.class, args);
 	}
 }
