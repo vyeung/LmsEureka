@@ -1,1 +1,1 @@
-# InfiniteLoopEureka
+# Eureka Server Discovery App
